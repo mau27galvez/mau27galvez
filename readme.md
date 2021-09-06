@@ -26,7 +26,7 @@ I am a computer science lover 👨‍💻💞. Right now, I am working mainly wi
   - MySql
   - MongoDB
 
-## I can speak this lenguajes
+## I can speak this lenguajes 👇
 
 - Spanish 🇵🇦
 - English 🇺🇸
