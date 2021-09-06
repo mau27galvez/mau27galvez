@@ -14,7 +14,7 @@ I am a computer science lover 👨‍💻💞. Right now, I am working mainly wi
   - MySql
   - MongoDB
 
-## Main stack interest (currently)
+## My main interest (currently) is this stack 👇
 - Elixir
   - Phoenix
   - Phoenix LiveView
